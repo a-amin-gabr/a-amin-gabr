@@ -89,15 +89,21 @@ I'm a **Cloud & DevOps Engineer** from **Cairo, Egypt** — passionate about bui
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Systems & Networking
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### Databases
 
@@ -157,6 +163,16 @@ I'm a **Cloud & DevOps Engineer** from **Cairo, Egypt** — passionate about bui
     </td>
   </tr>
 </table>
+
+---
+
+## 🏛️ Training & Experience
+
+- **DevOps Engineer Trainee** @ Digital Egypt Pioneers Initiative (DEPI) *(Nov 2025 – Present)*
+- **Linux Administration Trainee** @ National Telecommunication Institute (NTI) *(Oct 2025 – Nov 2025)*
+- **Cloud Architect Trainee** @ National Telecommunication Institute (NTI) *(Jun 2025 – Jul 2025)*
+- **Mobile App Developer Trainee** @ Digital Egypt Pioneers Initiative (DEPI) *(Apr 2024 – Oct 2024)*
+- **Android Development Trainee** @ Information Technology Institute (ITI) *(Jul 2024 – Aug 2024)*
 
 ---
 
