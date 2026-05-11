@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Abdallah+Gabr;Cloud+%26+DevOps+Engineer;5x+AWS+Certified;Building+Scalable+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Abdallah+Gabr;Cloud+%26+DevOps+Engineer;5x+AWS+Certified;Building+Scalable+Infrastructure" alt="Typing SVG" />
 </h1>
 
 <p align="center">
